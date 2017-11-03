@@ -1,7 +1,7 @@
 ### Installation
 
 ```
-composer require esilvajr/viaCep
+composer require esilvajr/via-cep-sdk
 ```
 
 ### How to use
