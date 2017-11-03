@@ -1,4 +1,11 @@
 {
+    "name": "esilvajr/viaCepSdk",
+    "description": "Biblioteca de integração com viaCep",
+    "authors": [
+        {
+            "name": "Edison Silva Jr | esilvajr@hotmail.com"
+        }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
